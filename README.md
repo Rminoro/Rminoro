@@ -13,6 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rminoro&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rminoro&layout=donut&theme=dark)](https://github.com/Rminoro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rminoro&layout=donut&theme=tokyonight)](https://github.com/Rminoro/github-readme-stats)
 
 
