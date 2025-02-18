@@ -1,5 +1,5 @@
 ## Olá! Eu sou Rafael Minoro Itokazo
-- 🏫 Formado em Análise e desenvolvimento de sistemas na FIAP
+- 🏫 Formado em Análise e desenvolvimento de sistemas na FIAP e Administração ênfase em comércio exterior pela USJT
 
 <picture>
   <source
