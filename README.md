@@ -12,4 +12,5 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Rminoro&show_icons=true" />
 </picture>
-  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rminoro)](https://github.com/Rminoro/github-readme-stats)
